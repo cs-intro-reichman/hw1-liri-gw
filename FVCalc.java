@@ -10,7 +10,7 @@ public class FVCalc {
 		// calculates the futureRate by the formula
 
 		int futureRateInt = (int)futureRate;
-		System.out.println("After " + n + " years, " + currentValue + "$" + " saved at " + rate/100 + "% " + "will yield " + futureRateInt + "$");
+		System.out.println("After " + n + " years, " + "$" + currentValue  + " saved at " + rate + "% " + "will yield " + "$" + futureRateInt);
 		// Returning the future rate to integer and Printing the futureRate as a integer
 }
 }

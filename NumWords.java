@@ -7,7 +7,7 @@ public class NumWords {
 		int t = (num%100)/10;
 		int h = num/100;
 		// Calculates the hundreds, tens, ones of the number
-		System.out.println(h + " hundreds, " + t + " tens, " + o + " ones.");
+		System.out.println(h + " hundreds, " + t + " tens, and " + o + " ones.");
 	    // Prints the answer
 	}
 }

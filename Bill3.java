@@ -11,7 +11,7 @@ public class Bill3 {
 		// saves the bill of each diner and round the double number to the upper nearest whole number
 
 
-		System.out.println("Dear " + name3 + ", " + name2 + ", " + "and " + name1 + ": pay " + bill4Each + " shekels each");
+		System.out.println("Dear " + name3 + ", " + name2 + ", " + "and " + name1 + ": pay " + bill4Each + " Shekels each");
 	    // prints the answer to how much each of the diners need to pay
 	}
 }
